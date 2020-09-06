@@ -17,3 +17,5 @@ python app.py
 cd front
 npm run dev
 ```
+# 成员信息
+杨一芃 詹昕晖 周泽煜 金禹哲
